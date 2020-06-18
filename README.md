@@ -55,3 +55,11 @@ Hello world testing
 - **2006:** Jeapordy!
 - **2016:** Go
 - **2018:** StarCraft
+
+## Sprint Challenge Prep:
+
+- LSTM text classification
+- structure model, use appropriate loss functions and optimizers
+- using pretrained CNN for inference (similar to in-class project Tuesday)
+- written questions on auto-encoders
+- written questions on AI discussion
